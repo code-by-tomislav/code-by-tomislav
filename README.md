@@ -2,7 +2,7 @@
 <p>Welcome to my github page.</br> I am Tomislav, a Backend developer from <img src="https://cdn-icons-png.flaticon.com/512/299/299945.png" width="13"/> Austria</p>
 
 <h3>Tools I work with all the time</h3>
-<p align="center">
+<p>
 	<img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white" />
 	<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 	<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -20,7 +20,10 @@
 	<img alt="Github Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
-<p>In my free time I love to tinker with home automation and electronics. That is also why I started in the automation space before going even deeper into backend development and DevOps. Now I create make all kinds of software and learn all kinds of new stuff along the way (which is the best part about it!).</p>
+<p>In my free time, I enjoy tinkering with home automation and electronics. It was this passion that led me to begin exploring automation before diving even deeper into backend development and DevOps. Today, I'm constantly learning new things as I develop all kinds of software – and that's the best part about it!</p>
 
 <h3>Languages for my OSS</h3>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-by-tomislav&layout=compact"/></p>
+
+<h3>How you can reach me</h3>
+<p><a href="https://github.com/code-by-tomislav" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/tomislav_nikic" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/nikic-tomislav" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
